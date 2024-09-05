@@ -1,3 +1,2 @@
-![logo](logo.png)
 
-<img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/cabinfvr?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
