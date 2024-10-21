@@ -9,3 +9,5 @@ node.js, firebase, html, python 💕
 - 🐦 [xitter](https://x.com/moistuncritical) 
 - 🎥 [imdb](https://www.imdb.com/user/ur182785233/)
 - 📌 [reddit](https://reddit.com/u/moistuncritical) 
+
+<img src="https://komarev.com/ghpvc/?username=cabinfvr&color=blue" alt="watching_count" />
