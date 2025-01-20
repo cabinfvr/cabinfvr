@@ -1,13 +1,1 @@
-# hey, i'm cabinfvr
-
-fullstack developer !! 🫰
-node.js, firebase, html, python 💕
-
----
-
-### links
-- 🐦 [xitter](https://x.com/moistuncritical) 
-- 🎥 [imdb](https://www.imdb.com/user/ur182785233/)
-- 📌 [reddit](https://reddit.com/u/moistuncritical) 
-
-<img src="https://komarev.com/ghpvc/?username=cabinfvr&color=blue" alt="watching_count" />
+![](https://i.kym-cdn.com/entries/icons/original/000/052/772/dog_closing_eyes_meme_cover.jpg)
