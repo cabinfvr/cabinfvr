@@ -21,3 +21,9 @@
   - gtx 1660 super
   - 16 gb ram
   - i7-4770
+
+---
+
+### follow me !
+- 🦩 [twit](https://x.com/moistuncritical)
+- 🚬 [reddit](https://www.reddit.com/user/moistuncritical/)
