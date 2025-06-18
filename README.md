@@ -1,6 +1,7 @@
 !["cabinfvr" in pixel sans](https://i.imgur.com/Of2TTph.png)
-> detailed descriptions at [my website](https://snoopy.engineer)
+> learn more over at [my website](https://snoopy.engineer)
 
 ---
 
-self taught fullstack developer looking to make mobile applications, work well with supabase.
+he/him • self-taught fullstack developer • based in the us
+i like building strange and silly stuff on thhe web.
