@@ -5,6 +5,3 @@
 
 he/him • self-taught fullstack developer • based in the us<br/>
 i like building strange and silly stuff on the web
-<br/><br/><br/><br/><br/><br/><br/><br/>
-also:
-[music](https://music.snoopy.engineer)
