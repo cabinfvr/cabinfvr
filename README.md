@@ -1,5 +1,4 @@
-!["cabinfvr" in pixel sans](https://i.imgur.com/Of2TTph.png)
-> learn more over at [my website (snoopy.engineer)](https://snoopy.engineer)
+!["cabinfvr" in angelic war](https://i.imgur.com/P3sjL8P.png)
 
 ---
 
@@ -9,5 +8,5 @@ i like building strange and silly stuff on the web
 --- 
 
 ### hardware
-**laptop** dell latitude 5400 (fedora) 
+**laptop** macbook air m4 15" (tahoe)
 **main pc** 16gb ddr3 ram, gtx 1660 super (win10)
